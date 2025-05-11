@@ -1,0 +1,27 @@
+{
+    "app_name": "CLEAR",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_use": "Terms of Use",
+    "welcome_page": {
+        "title": "Ever wondered why your loan application was rejected?",
+        "description": "We show you exactly what could have made a difference!",
+        "get_started_button": "Get Started",
+        "learn_more_button": "Learn More"
+    },
+    "learn_more_page": {
+        "title": "What do we do?",
+        "description_1": "We know it is frustrating when a loan application does not get approved. That’s why we are here to help.",
+        "description_2": "Our platform gives you simple, clear reasons why your loan was not approved and shows what you could change to get a better result next time – like asking for a smaller amount, improving your credit score, or updating financial details.",
+        "description_3": "And here is the best part: If there is something you do not want to change, like your income level, you can lock it, and we will focus on other solutions instead.",
+        "description_4": "We make it easy to understand what happened and how to improve, so you can move forward with confidence.",
+        "get_started_button": "Get Started"
+    },
+    "side_bar": {
+        "dashboard": "Dashboard",
+        "your_application": "Your Application",
+        "saved_scenarios": "Saved Scenarios",
+        "get_assistance": "Get Assistance",
+        "data_privacy": "Data Privacy",
+        "about_clear": "About Clear"
+    }
+}

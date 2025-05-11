@@ -1,0 +1,27 @@
+{
+    "app_name": "CLEAR",
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_of_use": "Kullanım Şartları",
+    "welcome_page": {
+        "title": "Kredi başvurunuzun neden reddedildiğini hiç merak ettiniz mi?",
+        "description": "Tam olarak neyin fark yaratabileceğini size gösteriyoruz!",
+        "get_started_button": "Hemen Başla",
+        "learn_more_button": "Learn More"
+    },
+    "learn_more_page": {
+        "title": "Ne yapıyoruz?",
+        "description_1": "Bir kredi başvurusunun onaylanmamasının sinir bozucu olduğunu biliyoruz. Bu yüzden size yardımcı olmak için buradayız.",
+        "description_2": "Platformumuz, kredinizin neden onaylanmadığına dair basit ve net nedenler sunar ve bir dahaki sefere daha iyi sonuç almak için neleri değiştirebileceğinizi gösterir; örneğin daha düşük bir miktar talep etmek, kredi puanınızı iyileştirmek veya finansal bilgilerinizi güncellemek gibi.",
+        "description_3": "Ve en güzel yanı şu: Gelir düzeyiniz gibi değiştirmek istemediğiniz bir şey varsa, onu kilitleyebilirsiniz ve bunun yerine başka çözümlere odaklanabiliriz.",
+        "description_4": "Neler yaşandığını ve nasıl iyileştirilebileceğini kolayca anlamanızı sağlıyoruz, böylece güvenle ilerleyebilirsiniz.",
+        "get_started_button": "Hemen Başla"
+    },
+    "side_bar": {
+        "dashboard": "Dashboard",
+        "your_application": "Your Application",
+        "saved_scenarios": "Saved Scenarios",
+        "get_assistance": "Get Assistance",
+        "data_privacy": "Data Privacy",
+        "about_clear": "About Clear"
+    }
+}
